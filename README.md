@@ -1,4 +1,4 @@
-# Hierarchical-Models-Case-Study-I
+# Hierarchical Models Case Study I
 Applying a Mixed Effects Model to Predict Movie Popularity
 
 Report
