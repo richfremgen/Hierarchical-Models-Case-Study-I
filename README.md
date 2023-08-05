@@ -11,18 +11,18 @@ A film production company wants to know what makes for a successful movie. They 
 ### Data
 The dataset comes from this kaggle challenge and will be available on Sakai. In addition, it is available on Sakai as United_States_Film_Releases.csv. The provided variables are
 
-`Title` : the title of the film
-`Release Date` : the date the film was released in mm/dd/yyyy format
-`Production.Company` : the production company or companies which sponsored the film. When multiple production companies collaborate on a film, they are all recorded
-`Lead.Cast.1` : the leading actor/actress in the film
-`Lead.Cast.2` : the second leading actor/actress in the film
-`Lead.Cast.3` : the third leading actor/actress in the film
-`Director` : the director of the film
-`Box.Office` : the amount of money in USD the film made at the box office
-`Budget` : the budget of the film in USD
-`Run.Time` : the run time of the film in minutes
-`Critic.Score` : the IDMB scores of the film
-`Genre` : the genre of the film. Most films are tagged with several genres
+* `Title` : the title of the film
+* `Release Date` : the date the film was released in mm/dd/yyyy format
+* `Production.Company` : the production company or companies which sponsored the film. When multiple production companies collaborate on a film, they are all recorded
+* `Lead.Cast.1` : the leading actor/actress in the film
+* `Lead.Cast.2` : the second leading actor/actress in the film
+* `Lead.Cast.3` : the third leading actor/actress in the film
+* `Director` : the director of the film
+* `Box.Office` : the amount of money in USD the film made at the box office
+* `Budget` : the budget of the film in USD
+* `Run.Time` : the run time of the film in minutes
+* `Critic.Score` : the IDMB scores of the film
+* `Genre` : the genre of the film. Most films are tagged with several genres
 
 ## Questions of interest
 
