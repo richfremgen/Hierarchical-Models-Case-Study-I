@@ -1,7 +1,7 @@
 # Hierarchical Models Case Study I
 Applying a Mixed Effects Model to predict movie popularity
 
-## Analysis
+## Analysis:
 ### Introduction
 A film production company wants to know what makes for a successful movie. They have collected box office information about films which released in the US in 2019 as well as some variables they suspect are predictive of box office success. In particular, they wish to know whether a film’s budget and critical score are predictive of it’s net profits. It falls to you to analyze this.
 
@@ -21,7 +21,7 @@ The dataset comes from this kaggle challenge and will be available on Sakai. In 
 * `Critic.Score` : the IDMB scores of the film
 * `Genre` : the genre of the film. Most films are tagged with several genres
 
-## Questions of interest
+## Questions of interest:
 
 Your job is to investigate whether budget and critical score were predictive of films’ net profits in 2019. As part of your analysis, explore how the variables provided are, or are not, associated with net profits. Note that you are not given these values directly. One challenge with the dataset is that lots of data are missing: identifying which data are missing and how to handle this are up to you. Moreover, some of the variables are of limited usefulness and may make your models prone to overfitting — few directors directors directed more than one movie, for instance. How to handle or whether to include such variables are another modelling decision.
 
