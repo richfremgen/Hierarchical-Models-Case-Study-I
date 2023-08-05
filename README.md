@@ -1,5 +1,5 @@
 # Hierarchical Models Case Study I
-Applying a Mixed Effects Model to Predict Movie Popularity
+Applying a Mixed Effects Model to predict movie popularity
 
 ## Report
 Please limit your write-up to 8 pages in total. Everything you want the grader to read should be included in the main write-up. You will be penalized should your report exceed 8 pages! Your write-up should specify the statistical model used, including the data model and prior distributions (if relevant), in addition to communicating your analysis findings. Please type your reports using R Markdown, LaTeX or any other word processor but be sure to knit or convert the final output file to .pdf. DO NOT INCLUDE R CODE OR OUTPUT IN YOUR SOLUTIONS/REPORTS. R outputs should be converted to nicely formatted tables. Feel free to use R packages such as kable, xtable, stargazer, etc. All R-code must be included in the appendix. Feel free to also include any supplemental material that is important for your analysis, such as diagnostic checks or exploratory plots that you feel justify the conclusions in your report. Note that you will not be graded on items contained in your appendix and should not assume it will be read.
