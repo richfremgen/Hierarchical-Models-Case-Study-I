@@ -25,7 +25,7 @@ The dataset comes from this kaggle challenge and will be available on Sakai. In 
 
 Your job is to investigate whether budget and critical score were predictive of films’ net profits in 2019. As part of your analysis, explore how the variables provided are, or are not, associated with net profits. Note that you are not given these values directly. One challenge with the dataset is that lots of data are missing: identifying which data are missing and how to handle this are up to you. Moreover, some of the variables are of limited usefulness and may make your models prone to overfitting — few directors directors directed more than one movie, for instance. How to handle or whether to include such variables are another modelling decision.
 
-Be sure to also include the following in your report:
+Be sure to also include the following in your report: 
 
 The relationships between net profits and budget as well as net profits and critical score, the final models you ultimately decided to use,
 clear model building, that is, justification for the models (e.g., why you chose certain transformations and why you decided the final models are reasonable),
