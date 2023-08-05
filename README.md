@@ -6,7 +6,7 @@ Applying a Mixed Effects Model to predict movie popularity
 A film production company wants to know what makes for a successful movie. They have collected box office information about films which released in the US in 2019 as well as some variables they suspect are predictive of box office success. In particular, they wish to know whether a film’s budget and critical score are predictive of it’s net profits. It falls to you to analyze this.
 
 ### Data
-The dataset comes from this kaggle challenge and will be available on Sakai. In addition, it is available on Sakai as United_States_Film_Releases.csv. The provided variables are
+The dataset comes from this kaggle challenge and will be available on Sakai. In addition, it is available on Sakai as United_States_Film_Releases.csv. The provided variables are:
 
 * `Title` : the title of the film
 * `Release Date` : the date the film was released in mm/dd/yyyy format
